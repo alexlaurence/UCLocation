@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{8DA7CE47-C3B7-E002-0A6D-5BCD88E8D34F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Android/AndroidManifest.xml">
+    <Files>
+      <File FileName="Assets/AndroidGoodies/Example/Scripts/OpenSettingsTest.cs" Line="1" Column="1" />
+      <File FileName="Assets/UCLFinder.cs" Line="25" Column="13" />
+      <File FileName="Assets/AndroidGoodies/Example/Scripts/OtherGoodiesTest.cs" Line="521" Column="1" />
+      <File FileName="Assets/AndroidGoodies/Example/Scripts/OtherInfoTest.cs" Line="41" Column="72" />
+      <File FileName="Assets/AndroidGoodies/Scripts/Goodies/GetInfo/AGNetwork.cs" Line="226" Column="40" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
