@@ -30,5 +30,7 @@ The dream is to make the app show the floor as well. This would be done by remap
 
 # Credits
 Andrei Parashiv - Original idea, research, data collection
+
 Alexander Laurence - Programmer, Unity
+
 Elon Glouberman - Programmer, UI design
