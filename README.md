@@ -1,5 +1,5 @@
 # About
-Open Source Location App for UCL Students based on Wifi BSSID.
+Open Source Non-GPS Location App for UCL Students based on Wifi BSSID data. The app was developed for the Android platform using the Unity engine.
 
 # Dependencies
 - [Android Goodies Pro](https://www.assetstore.unity3d.com/go/v2?from=%23!%2Fcontent%2F67473)
