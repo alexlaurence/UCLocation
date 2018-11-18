@@ -1,4 +1,4 @@
-# UCLocation
+# About
 Open Source Location App for UCL Students based on Wifi BSSID.
 
 # Dependencies
