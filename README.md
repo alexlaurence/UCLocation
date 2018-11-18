@@ -29,7 +29,6 @@ Getting it to work
 The dream is to make the app show the floor as well. This would be done by remapping the campus taking measurements of the strengths of the signals coming from ALL the wi-fi routers in as many location points a possible. Then, we would be able to differentiate when someone is on one floor or the other, as the strength print would be different (which is something that we cannot do now accurately as the same wi-fi network could be the one "preferred" by the phone at two different levels. One could say that the same thing may happen for our current solution, namely for the same wi-fi to be preferred in more than one room. But from our experience with the app, there is a large enough number of routers around campus for this to not happen).
 
 # Credits
-Andrei Parashiv - Idea, Data Collection
-Alexander Laurence - Programmer
-Elon Glouberman - Programmer
-
+Andrei Parashiv - Original idea, research, data collection
+Alexander Laurence - Programmer, Unity
+Elon Glouberman - Programmer, UI design
