@@ -1,12 +1,18 @@
+<p align="center">
+<img src="https://github.com/alexlaurence/UCLocation/blob/master/prev.png" data-canonical-src="https://raw.githubusercontent.com/alexlaurence/UCLocation/master/banner.png" width="200" height="200"/>
+</p>
+
 # About
 Open Source Non-GPS Location App for UCL Students based on Wifi BSSID data. The app was developed for the Android platform using the Unity engine.
 
+<p align="center">
+<img src="https://github.com/alexlaurence/UCLocation/raw/master/prev1.png" data-canonical-src="https://github.com/alexlaurence/UCLocation/raw/master/prev1.png" width="200" height="400"/>
+  <img src="https://github.com/alexlaurence/UCLocation/raw/master/prev2.png" data-canonical-src="https://github.com/alexlaurence/UCLocation/raw/master/prev2.png" width="200" height="400"/>
+  <img src="https://github.com/alexlaurence/UCLocation/raw/master/prev3.png" data-canonical-src="https://github.com/alexlaurence/UCLocation/raw/master/prev3.png" width="200" height="400"/>
+</p>
+
 # Dependencies
 - [Android Goodies Pro](https://www.assetstore.unity3d.com/go/v2?from=%23!%2Fcontent%2F67473)
-
-<p align="center">
-<img src="https://github.com/alexlaurence/UCLocation/blob/master/prev.png" data-canonical-src="https://github.com/alexlaurence/UCLocation/blob/master/prev.png" width="200" height="400"/>
-</p>
 
 # Background
 You take the same right seemingly for the fourth time, although you're not sure. You would expect the pulsating pain and the hundred bearings rolling along the floor of your mind to wash out your hungover. "I'll never drink again" you say to yourself as you feel your inside voice sitting in condescending silence. Not being able to keep your head straight has its advantages though, as it makes you catch a glimpse of your watch. It bellows 5 to 9 as you take the same right for the definitely fifth time. You look at your student ID. It doesn't say Theseus. Good. You remember however that you, too, have a thread leading you to freedom (i.e. your 9am, so maybe not really freedom), so you reach into your pocket for it. As you pull your phone out and access maps, a pop-up asks you permission for your high-accuracy location. You want to get out of this mess, so you press agree. After 10 seconds in which the high-accuracy location mode turns your battery percentage into a timer, it accurately plots you in front of a bus on Gower street. You crash on the floor and decide to take a nap.
