@@ -22,22 +22,22 @@ If this (or a slightly less dramatic version of it) happened to you, we feel you
 # How it works
 We went around campus and recorded in several key locations (more locations are to be added) the MAC address of the Wi-fi to which the phone usually connects. Used when walking around campus, the app constantly reads the MAC Address of the Wi-fi router to which the phone is connected and compares that to our list. If it finds a match, it retrieves the location stored, and gives you the possibility of seeing it on google maps or sending a text to a friend with the room where you are. (You can do this by the use of the two buttons of the app).
 
-| bssid             | room                    | lat      | lon      | 
-|-------------------|-------------------------|----------|----------| 
-| c4:14:3c:be:52:91 | South Wing              | 51.52424 | -0.13326 | 
-| 5c:50:15:91:38:ce | South Junction          | 51.52429 | -0.13317 | 
+| BSSID               | Room                    | Latitude | Longitude| 
+|---------------------|-------------------------|----------|----------| 
+| `c4:14:3c:be:52:91` | South Wing              | 51.52424 | -0.13326 | 
+| `5c:50:15:91:38:ce` | South Junction          | 51.52429 | -0.13317 | 
 | `1c:de:a7:40:42:41` | Main Quad               | 51.52436 | -0.13352 | 
-| 78:ba:f9:cf:2f:7e | South Cloisters         | 51.5245  | -0.13321 | 
-| d0:c7:89:c6:b3:de | Main Quad               | 51.52458 | -0.13402 | 
-| 7c:0e:ce:4b:f4:1e | Octagon-South Cloisters | 51.52462 | -0.1334  | 
-| 00:e1:6d:0a:aa:ae | Octagon                 | 51.52466 | -0.13345 | 
-| b0:aa:77:7b:c3:01 | South Cloisters         | 51.52445 | -0.13315 | 
-| 28:c7:ce:1e:ao:31 | John Locke              | 51.5248  | -0.13332 | 
-| 80:e0:1d:d9:ec:8e | Jeremy Bentham          | 51.52486 | -0.13318 | 
-| 80:e0:1d:d9:ec:81 | Jeremy Bentham          | 51.52486 | -0.13318 | 
-| b0:aa:77:50:15:3e | Octagon-North Cloisters | 51.52487 | -0.13367 | 
-| 78:ba:f9:cf:38:0e | North Cloisters         | 51.52497 | -0.13373 | 
-| b0:aa:77:d8:08:0e | North Cloisters         | 51.52501 | -0.1338  | 
+| `78:ba:f9:cf:2f:7e` | South Cloisters         | 51.5245  | -0.13321 | 
+| `d0:c7:89:c6:b3:de` | Main Quad               | 51.52458 | -0.13402 | 
+| `7c:0e:ce:4b:f4:1e` | Octagon-South Cloisters | 51.52462 | -0.1334  | 
+| `00:e1:6d:0a:aa:ae` | Octagon                 | 51.52466 | -0.13345 | 
+| `b0:aa:77:7b:c3:01` | South Cloisters         | 51.52445 | -0.13315 | 
+| `28:c7:ce:1e:ao:31` | John Locke              | 51.5248  | -0.13332 | 
+| `80:e0:1d:d9:ec:8e` | Jeremy Bentham          | 51.52486 | -0.13318 | 
+| `80:e0:1d:d9:ec:81` | Jeremy Bentham          | 51.52486 | -0.13318 | 
+| `b0:aa:77:50:15:3e` | Octagon-North Cloisters | 51.52487 | -0.13367 | 
+| `78:ba:f9:cf:38:0e` | North Cloisters         | 51.52497 | -0.13373 | 
+| `b0:aa:77:d8:08:0e` | North Cloisters         | 51.52501 | -0.1338  | 
 
 
 
