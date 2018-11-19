@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/alexlaurence/UCLocation/master/banner.png" data-canonical-src="https://raw.githubusercontent.com/alexlaurence/UCLocation/master/banner.png" width="200" height="200"/>
+<img src="https://raw.githubusercontent.com/alexlaurence/UCLocation/master/banner.png" data-canonical-src="https://raw.githubusercontent.com/alexlaurence/UCLocation/master/banner.png" width="600" height="200"/>
 </p>
 
 # About
