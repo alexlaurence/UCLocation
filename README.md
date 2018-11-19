@@ -1,14 +1,14 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/alexlaurence/UCLocation/master/banner.png" data-canonical-src="https://raw.githubusercontent.com/alexlaurence/UCLocation/master/banner.png" width="350" height="200"/>
+<img src="https://raw.githubusercontent.com/alexlaurence/UCLocation/master/banner.png" data-canonical-src="https://raw.githubusercontent.com/alexlaurence/UCLocation/master/banner.png" width="300" height="200"/>
 </p>
 
 # About
 Open Source Non-GPS Location App for UCL Students based on Wifi BSSID data. The app was developed for the Android platform using the Unity engine.
 
 <p align="center">
-<img src="https://github.com/alexlaurence/UCLocation/raw/master/prev1.png" data-canonical-src="https://github.com/alexlaurence/UCLocation/raw/master/prev1.png" width="200" height="400"/>
-  <img src="https://github.com/alexlaurence/UCLocation/raw/master/prev2.png" data-canonical-src="https://github.com/alexlaurence/UCLocation/raw/master/prev2.png" width="200" height="400"/>
-  <img src="https://github.com/alexlaurence/UCLocation/raw/master/prev3.png" data-canonical-src="https://github.com/alexlaurence/UCLocation/raw/master/prev3.png" width="200" height="400"/>
+<img src="https://github.com/alexlaurence/UCLocation/raw/master/prev1.png" data-canonical-src="https://github.com/alexlaurence/UCLocation/raw/master/prev1.png" width="200" height="450"/>
+  <img src="https://github.com/alexlaurence/UCLocation/raw/master/prev2.png" data-canonical-src="https://github.com/alexlaurence/UCLocation/raw/master/prev2.png" width="200" height="450"/>
+  <img src="https://github.com/alexlaurence/UCLocation/raw/master/prev3.png" data-canonical-src="https://github.com/alexlaurence/UCLocation/raw/master/prev3.png" width="200" height="450"/>
 </p>
 
 # Dependencies
