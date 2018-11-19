@@ -26,11 +26,11 @@ We went around campus and recorded in several key locations (more locations are 
 |-------------------|-------------------------|----------|----------| 
 | c4:14:3c:be:52:91 | South Wing              | 51.52424 | -0.13326 | 
 | 5c:50:15:91:38:ce | South Junction          | 51.52429 | -0.13317 | 
-| 1c:de:a7:40:42:41 | Main Quad               | 51.52436 | -0.13352 | 
+| `1c:de:a7:40:42:41` | Main Quad               | 51.52436 | -0.13352 | 
 | 78:ba:f9:cf:2f:7e | South Cloisters         | 51.5245  | -0.13321 | 
 | d0:c7:89:c6:b3:de | Main Quad               | 51.52458 | -0.13402 | 
 | 7c:0e:ce:4b:f4:1e | Octagon-South Cloisters | 51.52462 | -0.1334  | 
-| 00:e1:6d:0a:aa:ae | Octangon                | 51.52466 | -0.13345 | 
+| 00:e1:6d:0a:aa:ae | Octagon                 | 51.52466 | -0.13345 | 
 | b0:aa:77:7b:c3:01 | South Cloisters         | 51.52445 | -0.13315 | 
 | 28:c7:ce:1e:ao:31 | John Locke              | 51.5248  | -0.13332 | 
 | 80:e0:1d:d9:ec:8e | Jeremy Bentham          | 51.52486 | -0.13318 | 
