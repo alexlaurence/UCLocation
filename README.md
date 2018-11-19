@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/alexlaurence/UCLocation/master/banner.png" data-canonical-src="https://raw.githubusercontent.com/alexlaurence/UCLocation/master/banner.png" width="300" height="200"/>
-</p>
-
 # About
 Open Source Non-GPS Location App for UCL Students based on Wifi BSSID data. The app was developed for the Android platform using the Unity engine.
 
