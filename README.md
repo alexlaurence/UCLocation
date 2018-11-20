@@ -1,5 +1,5 @@
 # About
-Open Source Non-GPS Location App for UCL Students based on Wifi BSSID data. The app was developed for the Android platform using the Unity engine.
+Open Source Non-GPS Location App for UCL Students based on Wifi BSSID data. The app was developed for the Android platform using the Unity engine. Built as part of Porticode 3.0, a 24-hour hackathon organised by UCL Technology Society.
 
 <p align="center">
 <img src="https://github.com/alexlaurence/UCLocation/raw/master/prev1.png" data-canonical-src="https://github.com/alexlaurence/UCLocation/raw/master/prev1.png" width="200" height="420"/>
