@@ -10,6 +10,7 @@ Open Source Non-GPS Location App for UCL Students based on Wifi BSSID data. The 
 # Dependencies
 - [Android Goodies Pro](https://www.assetstore.unity3d.com/go/v2?from=%23!%2Fcontent%2F67473)
 - [CSVReader](https://github.com/tikonen/blog/blob/master/csvreader/CSVReader.cs)
+- [Unity Native Share](https://github.com/yasirkula/UnityNativeShare)
 - [64-bit Java Development Kit 8 (1.8)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Unity Engine](https://unity3d.com/get-unity/download)
 - [Android Environment](https://docs.unity3d.com/Manual/android-sdksetup.html)
