@@ -63,4 +63,8 @@ Alexander Laurence - Backend/Frontend Programming, Unity, UI
 
 Elon Glouberman - Backend Programming, object-orientated pipeline, UX
 
+Special thanks to the following for providing the tools:
+
 tikonen - CSVReader
+
+yasirkula - Unity Native Share
