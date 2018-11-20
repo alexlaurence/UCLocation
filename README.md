@@ -40,11 +40,12 @@ We went around campus and recorded in several key locations (more locations are 
 | `78:ba:f9:cf:38:0e` | North Cloisters         | 51.52497 | -0.13373 | 
 | `b0:aa:77:d8:08:0e` | North Cloisters         | 51.52501 | -0.1338  | 
 
-
-
-
 # How we built it
 We used unity to both create a mock-up to record the mac addresses and for the final product.
+
+# Try it out 
+- [Developmental Builds](https://github.com/alexlaurence/UCLocation/releases)
+- Stable releases on Google Play (Coming soon!)
 
 # Challenges we ran into
 Getting it to work
